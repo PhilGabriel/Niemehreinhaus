@@ -5,15 +5,7 @@ body {
 	*width: 101%;
 }
 /*Framework nur fürs Layout */
-.c90, .c45, .c33 {
-    display: inline-block !important;
-    *display: inline !important;
-    zoom: 1;
-    letter-spacing: normal;
-    word-spacing: normal;
-    vertical-align: top;
-    text-rendering: auto;
-}
+
 .c90
 {width:90%;
 *width:90.1%;
