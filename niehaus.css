@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	width: 100%;
+	*width: 101%;
+}
+/*Framework nur fürs Layout */
+.c90, .c45, .c33 {
+    display: inline-block !important;
+    *display: inline !important;
+    zoom: 1;
+    letter-spacing: normal;
+    word-spacing: normal;
+    vertical-align: top;
+    text-rendering: auto;
+}
+.c90
+{width:90%;
+*width:90.1%;
+margin-left: 5%;}
+.c45 {width: 45%;
+*width: 45.1%;
+
+padding-left: 2.5%;}
+.c33 {
+	width: 33%;
+		*width: 33%;
+	padding-left: auto;
+}
+.row .c45, .row .c90, .row .c33 {
+	display: inline-block !important;
+    *display: inline !important;
+    zoom: 1;
+    letter-spacing: normal;
+    word-spacing: normal;
+    vertical-align: top;
+    text-rendering: auto;
+	margin-bottom: 20px;
+}
