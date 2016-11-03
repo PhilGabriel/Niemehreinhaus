@@ -23,9 +23,9 @@ margin-left: 5%;}
 
 padding-left: 2.5%;}
 .c33 {
-	width: 33%;
-		*width: 33%;
-	padding-left: auto;
+	width: 30%;
+		*width: 30.5%;
+	padding-left: 1%;
 }
 .row .c45, .row .c90, .row .c33 {
 	display: inline-block !important;
